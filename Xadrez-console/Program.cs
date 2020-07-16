@@ -11,8 +11,8 @@ namespace Xadrez_console
             try
             {
                 Tabuleiro tab = new Tabuleiro(8, 8);
-                tab.colocarPeca(new Posicao(0, 0), new Rei(tab, Cor.Preto));
-                tab.colocarPeca(new Posicao(1, 1), new Torre(tab, Cor.Preto));
+
+                tab.colocarPeca(new Posicao(0, 0), new Torre(tab, Cor.Preto));
 
                 Tela.imprimirTabuleiro(tab);
             }
