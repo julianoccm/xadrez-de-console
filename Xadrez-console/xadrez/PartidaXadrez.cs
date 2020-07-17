@@ -7,6 +7,7 @@ namespace xadrez
         public Tabuleiro tab { get; private set; }
         private int turno;
         private Cor jogadorAtual;
+        public bool terminada { get; set; }
         
         public PartidaXadrez()
         {
@@ -14,6 +15,7 @@ namespace xadrez
             turno = 1;
             jogadorAtual = Cor.Branco;
             colocarPecas();
+            terminada = false;
         }
 
         public void executarMovimento(Posicao origem, Posicao destino)
