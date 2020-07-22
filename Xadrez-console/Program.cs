@@ -9,7 +9,7 @@ namespace Xadrez_console
     {
         static void Main(string[] args)
         {
-            Console.Title = "XADREZ";
+            Console.Title = "Xadrez - Criado por: Juliano Colere Ceccon Moreira";
             try
             {
                 PartidaXadrez partida = new PartidaXadrez();
