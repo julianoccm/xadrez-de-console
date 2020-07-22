@@ -2,6 +2,7 @@
 using xadrez;
 using tabuleiro;
 using System.Security.Cryptography;
+using System.ComponentModel;
 
 namespace Xadrez_console
 {
