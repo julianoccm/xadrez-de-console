@@ -9,6 +9,7 @@ namespace Xadrez_console
     {
         static void Main(string[] args)
         {
+            Console.Title = "XADREZ";
             try
             {
                 PartidaXadrez partida = new PartidaXadrez();
