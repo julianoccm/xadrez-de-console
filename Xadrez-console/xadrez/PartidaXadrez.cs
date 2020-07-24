@@ -394,7 +394,6 @@ namespace xadrez
         
         private void colocarPecas()
         {
-            /*
             colocarNovaPeca('a', 1, new Torre(tab, Cor.Branco));
             colocarNovaPeca('b', 1, new Cavalo(tab, Cor.Branco));
             colocarNovaPeca('c', 1, new Bispo(tab, Cor.Branco));
@@ -430,19 +429,6 @@ namespace xadrez
             colocarNovaPeca('f', 7, new Peao(tab, Cor.Preto, this));
             colocarNovaPeca('g', 7, new Peao(tab, Cor.Preto, this));
             colocarNovaPeca('h', 7, new Peao(tab, Cor.Preto, this));
-            */
-
-            colocarNovaPeca('e', 8, new Rei(tab, Cor.Preto, this));
-            colocarNovaPeca('d', 7, new Peao(tab, Cor.Preto, this));
-            //colocarNovaPeca('e', 7, new Cavalo(tab, Cor.Preto));
-            colocarNovaPeca('f', 7, new Peao(tab, Cor.Preto, this));
-            colocarNovaPeca('d', 8, new Peao(tab, Cor.Preto, this));
-            colocarNovaPeca('f', 8, new Peao(tab, Cor.Preto, this));
-
-            colocarNovaPeca('d', 1, new Dama(tab, Cor.Branco));
-            colocarNovaPeca('d', 2, new Rei(tab, Cor.Branco, this));
-
-
         }
     }
 }
