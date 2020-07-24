@@ -3,6 +3,7 @@ using xadrez;
 using tabuleiro;
 using System.Security.Cryptography;
 using System.ComponentModel;
+using System.Reflection.Metadata;
 
 namespace Xadrez_console
 {
@@ -43,6 +44,11 @@ namespace Xadrez_console
                         Console.WriteLine(e.Message);
                         Console.ReadLine();
                     }
+                    catch (Exception e)
+                    {
+                        Console.WriteLine(e.Message);
+                        Console.ReadLine();
+                    }
                 }
                 Console.Clear();
                 Tela.imprimirPartida(partida);
@@ -50,6 +56,11 @@ namespace Xadrez_console
             catch (TabuleiroException e)
             {
                 Console.WriteLine(e.Message);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                Console.ReadLine();
             }
         }
     }

@@ -32,7 +32,28 @@ namespace Xadrez_console
                 Console.WriteLine("XEQUEMATE!");
                 Console.ForegroundColor = aux;
                 Console.WriteLine("Vencedor: " + partida.jogadorAtual);
+                imprimirCreditos();
             }
+        }
+
+        private static void imprimirCreditos()
+        {
+            Console.WriteLine();
+            Console.WriteLine();
+            ConsoleColor aux = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.WriteLine("##########################################################");
+            Console.WriteLine("|  Programado por: Juliano Colere Ceccon Moreira         |");
+            Console.WriteLine("|  Me siga nas redes sociais!                            |");
+            Console.WriteLine("|   - Github: JulianoCCMoreira                           |");
+            Console.WriteLine("|   - Instagram: @juliano_ccm                            |");
+            Console.WriteLine("|   - Facebook: Juliano Colere Moreira                   |");
+            Console.WriteLine("|   - Linkedin: Juliano Colere Ceccon Moreira            |");
+            Console.WriteLine("|                                                        |");
+            Console.WriteLine("|   E-mail para contato: julianocolerecmoreira@gmail.com |");
+            Console.WriteLine("##########################################################");
+            Console.ForegroundColor = aux;
+            Console.ReadLine();
         }
 
         public static void imprimirPecasCapturadas(PartidaXadrez partida)
