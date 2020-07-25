@@ -256,7 +256,8 @@ case 'c':
 
 # Baixar o jogo!
 ### Windows:
-- [**Windows 64 Bits**](https://drive.google.com/uc?id=1dk7OZMBnnJwW20IEBfYAAzNu0CckJmuv&export=download)
-- [**Windows 32 Bits**](https://drive.google.com/u/0/uc?id=1YueoOaz13p3E5WShweoXPt8YJHRfPjuG&export=download)
+- [**Windows 64 Bits**](https://drive.google.com/u/0/uc?id=1cqEvqL6oiAH5RpQLR2CXAHnBzzKAr_IV&export=download)
+- [**Windows 32 Bits**](https://drive.google.com/u/0/uc?id=1T8Ww5V3d6_tnVXs0zKrdEQXHjDCVJREQ&export=download)
+- [**Portatil**](https://drive.google.com/u/0/uc?id=1FgbUYvp1gp2RuSuZydVe6ZU5CmOzTYYV&export=download)
 
 ### Contato: julianocolerecmoreira@gmail.com
