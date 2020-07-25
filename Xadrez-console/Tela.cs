@@ -129,7 +129,10 @@ namespace Xadrez_console
                 }
                 Console.WriteLine();
             }
+            ConsoleColor aux = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine("  A B C D E F G H");
+            Console.ForegroundColor = aux;
             Console.BackgroundColor = fundoOriginal;
         }
 
