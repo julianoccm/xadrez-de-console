@@ -238,7 +238,7 @@ if (p is Peao)
 ```
   
  #### 4. Promoção
-A jogada promoção ocorre quando um peão chega no limite adversário do tabuleiro, então o peão pode se torna: Dama, Bispo, Cavalo e um Torre. Para esta jogada especial foi necessário criar uma interação com o usuário para ele escolher qual peça ele quer tornar, e depois promover o peão.
+A jogada promoção ocorre quando um peão chega no limite adversário do tabuleiro, então o peão pode se torna: Dama, Bispo, Cavalo e uma Torre. Para esta jogada especial foi necessário criar uma interação com o usuário para ele escolher qual peça ele quer tornar, e depois promover o peão.
 
  ##### Exemplo de promoção de um peão para um cavalo:
 ```cs
@@ -254,6 +254,9 @@ case 'c':
      break;
 ```
 
-# [Baixar o jogo!](https://drive.google.com/u/0/uc?id=1xZR_pVbnEVh7TRIOz2YHLFlzkd-RJFEn&export=download)
+# Baixar o jogo!
+### Windows:
+- [**Windows 64 Bits**](https://drive.google.com/uc?id=1dk7OZMBnnJwW20IEBfYAAzNu0CckJmuv&export=download)
+- [**Windows 32 Bits**](https://drive.google.com/u/0/uc?id=1YueoOaz13p3E5WShweoXPt8YJHRfPjuG&export=download)
 
 ### Contato: julianocolerecmoreira@gmail.com
