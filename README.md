@@ -254,12 +254,4 @@ case 'c':
      break;
 ```
 
-# Baixar o jogo!
-### Windows:
-- [**Windows 64 Bits**](https://drive.google.com/u/0/uc?id=1cqEvqL6oiAH5RpQLR2CXAHnBzzKAr_IV&export=download)
-- [**Windows 32 Bits**](https://drive.google.com/u/0/uc?id=1T8Ww5V3d6_tnVXs0zKrdEQXHjDCVJREQ&export=download)
-- [**Portatil**](https://drive.google.com/u/0/uc?id=1FgbUYvp1gp2RuSuZydVe6ZU5CmOzTYYV&export=download)
-- [**Windows 64 Bits (Autossuficiente)**](https://drive.google.com/u/0/uc?export=download&confirm=CDQ9&id=1nenRoF21hxq500U7zgbKB4M4vZJ8RkWw)
-- [**Windows 32 Bits (Autossuficiente)**](https://drive.google.com/u/0/uc?id=1ItarAiK20nbozEm7NRHI7jxzNg-vMj7u&export=download)
-
 ### Contato: julianocolerecmoreira@gmail.com
